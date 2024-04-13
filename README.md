@@ -66,13 +66,10 @@ This operator allows you to search for pages that link to a specific URL. For ex
 ## cache: 
 This operator allows you to view the cached version of a page. For example, "cache:example.com" would show the cached version of the example.com website.
 
- 
-
+![Screenshot 2024-04-13 141738](https://github.com/vasundrasriravi/Enumeration/assets/119393983/ad5e601a-ecce-46e1-ae2a-ab380a47b7a1)
 
 ## DNS Recon
 ![Screenshot 2024-04-13 134717](https://github.com/vasundrasriravi/Enumeration/assets/119393983/37bc0649-37fa-40c6-a6af-2e8f81aea2af)
-
-
 provides the ability to perform:
 Check all NS records for zone transfers
 Enumerate general DNS records for a given domain (MX, SOA, NS, A, AAAA, SPF , TXT)
